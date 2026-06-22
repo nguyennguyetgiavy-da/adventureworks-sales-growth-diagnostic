@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-A 6-page Power BI executive dashboard analyzing the slowdown in revenue growth within AdventureWorks' Internet Sales business.
+A 5-page Power BI executive dashboard analyzing the slowdown in revenue growth within AdventureWorks' Internet Sales business.
 
 The dashboard combines sales, product, customer, and regional performance data to identify which business areas contribute most to declining growth and where management should prioritize improvement efforts.
 
@@ -88,23 +88,23 @@ The analysis integrates sales, product, customer, geography, and date data throu
 
 ### Sales Overview
 
-![Sales Overview](images/page2_sales_overview.jpg)
+![Sales Overview](images/page1_sales_overview.jpg)
 
 ### Product Analysis
 
-![Product Analysis](images/page3_product_analysis.jpg)
+![Product Analysis](images/page2_product_analysis.jpg)
 
 ### Customer Analysis
 
-![Customer Analysis](images/page4_customer_analysis.jpg)
+![Customer Analysis](images/page3_customer_analysis.jpg)
 
 ### Regional Analysis
 
-![Regional Analysis](images/page5_regional_analysis.jpg)
+![Regional Analysis](images/page4_regional_analysis.jpg)
 
 ### Advanced Analysis
 
-![Advanced Analysis](images/page6_advanced_analysis.jpg)
+![Advanced Analysis](images/page5_advanced_analysis.jpg)
 
 ---
 
