@@ -32,7 +32,7 @@ While overall revenue remained stable, the underlying drivers behind the slowdow
 
 The analysis integrates sales, product, customer, geography, and date data through a relational data model built in Power BI.
 
-* **Analysis Period:** FY2018 – FY2021
+* **Analysis Period:** FY2018 – FY2021 (FY2018 treated as a partial baseline year)
 * **Coverage:** Internet sales transactions across multiple international markets
 * **Data Model:** Fact and dimension tables connected through a star-schema structure
 
