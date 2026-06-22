@@ -86,10 +86,6 @@ The analysis integrates sales, product, customer, geography, and date data throu
 
 ## Dashboard Preview
 
-### Executive Overview
-
-![Executive Overview](images/page1_overview.jpg)
-
 ### Sales Overview
 
 ![Sales Overview](images/page2_sales_overview.jpg)
